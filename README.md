@@ -12,10 +12,10 @@ I'm an Interactive Development student at Open Window in South Africa, passionat
 
 Here are my major projects, with each repository including detailed documentation and process insights:
 
-1. **[AutoMatch - DV 200 Term 1](https://github.com/jarrydcarelse/AutoMatch-DV200-Term1.git)** - Brief description of the project
-2. **[Sportify - DV 200 Term 2](https://github.com/jarrydcarelse/Sportify-DV200-Term2.git)** - Brief description of the project
-3. **[Premium Properties - DV 200 Term 3](https://github.com/jarrydcarelse/PremiumProperties-DV200-Term3.git)** - Brief description of the project
-4. **[Farm Connect - DV 200 Term 4](https://github.com/jarrydcarelse/FarmConnect-DV200-Term4.git)** - Brief description of the project
+1. **[AutoMatch - DV 200 Term 1](https://github.com/jarrydcarelse/AutoMatch-DV200-Term1.git)** - AutoMatch is an intuitive website that lets you compare two cars simultaneously. It provides comprehensive information and insightful graphs for easy analysis.
+2. **[Sportify - DV 200 Term 2](https://github.com/jarrydcarelse/Sportify-DV200-Term2.git)** - Sportify is an innovative web application designed to enhance the experience of sports enthusiasts by providing a platform to explore, compare, and engage with a variety of sports products.
+3. **[Premium Properties - DV 200 Term 3](https://github.com/jarrydcarelse/PremiumProperties-DV200-Term3.git)** - Premium Properties is a sophisticated web application developed to simulate the functionalities of a real estate agency's online platform.
+4. **[Farm Connect - DV 200 Term 4](https://github.com/jarrydcarelse/FarmConnect-DV200-Term4.git)** - Farm Connect is a web application designed to connect small-scale farmers directly with local consumers and businesses, providing a digital platform for farmers to list and sell their produce.
 
 
 *Make sure these repositories are set to public for easy access during the presentation.*
