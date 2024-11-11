@@ -18,7 +18,7 @@ Here are my major projects, with each repository including detailed documentatio
 4. **[Farm Connect - DV 200 Term 4](https://github.com/jarrydcarelse/FarmConnect-DV200-Term4.git)** - Farm Connect is a web application designed to connect small-scale farmers directly with local consumers and businesses, providing a digital platform for farmers to list and sell their produce.
 
 
-*Make sure these repositories are set to public for easy access during the presentation.*
+
 
 ---
 
