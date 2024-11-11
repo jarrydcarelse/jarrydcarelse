@@ -1,5 +1,5 @@
 <!-- Header Image and Profile Image -->
-![Header Image](./Frame 1.jpg)
+![Header Image](./header.jpg)
 
 # Hi there, I'm Jarryd Carelse! 👋
 
