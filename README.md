@@ -1,5 +1,5 @@
 <!-- Header Image and Profile Image -->
-![Header Image](header-image-url) <!-- Replace with your header image URL -->
+![Header Image](./Frame 1.jpg)
 
 # Hi there, I'm Jarryd Carelse! 👋
 
