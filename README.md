@@ -3,46 +3,87 @@
 
 # 👋 Hello, I’m Jarryd Carelse
 
-## About Me
-I'm an Interactive Development student at Open Window in South Africa, passionate about designing and developing digital experiences that engage users. I enjoy working on projects in various fields, including real estate, cars and fitness, focusing on combining creativity and technical skills.
+## About Me  
+I’m an Interactive Development student at Open Window in South Africa, passionate about building polished, user-focused digital products. My work spans mobile development, web applications, and AI-powered tools — always combining clean UI, strong UX, and technical depth.
 
 ---
 
-## 🌟 Featured Portfolio Projects (DV 200 Term 1-4)
+## 🌟 Featured Projects
 
-Here are my major academic projects, showcasing a wide range of development skills from front-end design to back-end functionality. Each repository includes comprehensive documentation on the development process, technical challenges, and project goals:
+### **1. Eventify – Event, Task & Employee Management Platform**  
+**Repo:** [Eventify Management App](https://github.com/jarrydcarelse/Eventify-Management-App)
 
-1. **[AutoMatch - DV 200 Term 1](https://github.com/jarrydcarelse/AutoMatch-DV200-Term1.git)**  
-   *AutoMatch* is an interactive car comparison platform, allowing users to compare two cars simultaneously. With detailed specs and insightful graphs, AutoMatch simplifies the decision-making process for car enthusiasts and buyers.
+A full event-tracking and employee performance dashboard with authentication, filtering, task management, and optional desktop support.
 
-2. **[Sportify - DV 200 Term 2](https://github.com/jarrydcarelse/Sportify-DV200-Term2.git)**  
-   *Sportify* is a dynamic web application designed for sports enthusiasts. It provides an immersive platform to explore, compare, and engage with a variety of sports products, catering to everyone from casual fitness fans to professional athletes.
+**Highlights**
+- Email/password login, admin PIN gate for signup  
+- CRUD tasks, event tasks, and employee stats  
+- Dashboard with global and per-event overviews  
+- Electron desktop build  
+- Unit & snapshot tests
 
-3. **[Premium Properties - DV 200 Term 3](https://github.com/jarrydcarelse/PremiumProperties-DV200-Term3.git)**  
-   *Premium Properties* is a comprehensive real estate platform simulating the operations of an agency's online platform. This application supports property management, user interactions, and administrative functions, demonstrating my proficiency in full-stack development and data management.
-
-4. **[Farm Connect - DV 200 Term 4](https://github.com/jarrydcarelse/FarmConnect-DV200-Term4.git)**  
-   *Farm Connect* bridges the gap between small-scale farmers and local consumers, providing a direct marketplace for fresh produce. This project emphasizes e-commerce principles, role-based access, and database management, all optimized for user experience.
+**Tech Stack**
+- **Frontend:** React (Create React App), react-router-dom v6  
+- **Styling:** CSS Modules  
+- **Tests:** Jest, React Testing Library  
+- **Desktop:** Electron, electron-builder  
+- **Deployment:** Netlify
 
 ---
 
-## 📊 GitHub Statistics
-![Jarryd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jarrydcarelse&show_icons=true&theme=radical) <!-- Replace `jarrydcarelse` with your GitHub username -->
+### **2. Trash the Habit – Gamified Habit-Breaking Mobile App**  
+**Repo:** [Trash the Habit](https://github.com/jarrydcarelse/TrashTheHabit-App)
+
+A mobile app that helps users break negative habits with a gamified drag-and-drop interface, real-time sync, and habit analytics.
+
+**Highlights**
+- Firebase Auth (email/password)  
+- Firestore for real-time habit tracking  
+- Drag-and-drop habit cards (Reanimated + Gesture Handler)  
+- Habit analytics via charts  
+- Offline-session persistence via AsyncStorage  
+- Clean theming and smooth UX
+
+**Tech Stack**
+- React Native (Expo)  
+- React Context  
+- expo-image-picker, expo-haptics, AsyncStorage  
+- react-native-chart-kit, react-native-svg
+
+---
+
+### **3. SmartCoach – AI Golf Practice Assistant**  
+**Repo:** [SmartCoach](https://github.com/jarrydcarelse/smart-coach.git)
+
+A mobile golf coach app that chats with users to deliver personalized practice plans. The backend uses AI (Gemini) to generate structured drills, safety notes, and follow-up advice.
+
+**Highlights**
+- Conversational coaching using Gemini  
+- Handicap-aware plan generation  
+- Persistent user data: saved drills, sessions & achievements  
+- Sound & haptic feedback on key user actions  
+- Structured session UI and chat flow
+
+**Tech Stack**
+- **Frontend:** Expo (React Native), TypeScript, Expo Router  
+- **Firebase:** Auth, Firestore  
+- **Backend:** Flask (Python), Flask-CORS  
+- **AI:** Gemini (via google-genai)  
+- **Services:** Axios, AsyncStorage, expo-av, expo-haptics
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages**: JavaScript, HTML, CSS, PHP, SQL
-- **Frameworks & Libraries**: React Native, Expo
-- **Tools & Platforms**: Figma, XAMPP, Visual Studio Code, Git, Google Cloud Platform
+- **Mobile:** React Native (Expo), TypeScript, Expo Router  
+- **Backend:** Python (Flask), REST APIs, Google Gemeni via google-genai  
+- **Database / Auth:** Firebase Auth, Firestore  
+- **State / UI:** React Context, Reanimated, Gesture Handler  
+- **Tools:** Git, GitHub, Figma, VS Code, Netlify, Electron  
+- **Testing:** Jest, React Testing Library
 
 ---
 
-## 📫 Get in Touch
-
-I’m always interested in discussing new projects, collaborations, and innovative ideas. Feel free to reach out to me through the following channels:
-
-- **Email**: [221267@virtualwindow.co.za](mailto:221267@virtualwindow.co.za)
-
-Thank you for visiting my profile!
+## 📫 Get in Touch  
+I’d love to chat about projects, collaborations, or ideas.  
+**Email:** 221267@virtualwindow.co.za  
