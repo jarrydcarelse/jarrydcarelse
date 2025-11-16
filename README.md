@@ -87,7 +87,7 @@ Expo (React Native), TypeScript, Firebase, Flask, google-genai, Axios
 ---
 
 ## 📊 GitHub Statistics  
-*(These update automatically on your GitHub profile once added.)*
+
 
 ### **Overall Stats**
 ![Jarryd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jarrydcarelse&show_icons=true&theme=radical)
