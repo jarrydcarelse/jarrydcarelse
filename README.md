@@ -16,7 +16,7 @@ Below are the three major projects I’ve completed, each showing different area
 
 ---
 
-### **1. UNO Event Management – Event, Task & Employee Platform**  
+### **1. UNO Event Management, Event, Task & Employee Platform**  
 **Repo:** [UNO Event Management – Frontend](https://github.com/jarrydcarelse/UNO-Event-management---Frontend.git)
 
 <p align="center">
@@ -44,7 +44,7 @@ React, CRA, react-router-dom, Axios, CSS Modules, Jest
 
 ---
 
-### **2. Trash the Habit – Gamified Habit-Breaking App**  
+### **2. Trash the Habit, Gamified Habit-Breaking App**  
 **Repo:** [Trash the Habit](https://github.com/Jarryd-Carelse/DV300--Trash-the-habit.git)
 
 <p align="center">
@@ -61,14 +61,14 @@ How to build a modern React Native app with gesture-based UI, real-time database
 - Real-time habit syncing using Firestore  
 - Drag-and-drop habit actions (Reanimated + Gesture Handler)  
 - Weekly charts for progress tracking  
-- Offline-friendly storage via AsyncStorage  
+ 
 
 **Tech Stack**  
 React Native (Expo), Firebase Auth & Firestore, Reanimated, Chart Kit, AsyncStorage
 
 ---
 
-### **3. SmartCoach – AI Golf Practice Assistant**  
+### **3. SmartCoach, AI Golf Practice Assistant**  
 **Repo:** [SmartCoach](https://github.com/jarrydcarelse/smart-coach.git)
 
 <p align="center">
