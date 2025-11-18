@@ -98,22 +98,40 @@ Expo (React Native), TypeScript, Firebase, Flask, google-genai (Gemini), Axios
 ## 🛠️ Technical Skills
 
 ### **Languages & Frameworks**
-- JavaScript, TypeScript, Python  
-- React, React Native (Expo), Expo Router  
-- .NET API basics, Flask API development  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo%20Router-000000?style=for-the-badge&logo=expo&logoColor=white)
 
-### **Tools / Platforms**
-- Firebase Auth & Firestore  
-- Axios, AsyncStorage  
-- React Navigation, Reanimated, Gesture Handler  
-- Figma, Git, GitHub, VS Code  
+### **Tools & Platforms**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### **Specialised Areas**
-- AI integration with Gemini  
-- REST API development (Flask + .NET)  
-- Real-time sync + offline architecture  
-- UI/UX design for mobile interactions  
+### **Mobile & UX**
+![React Navigation](https://img.shields.io/badge/React%20Navigation-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Reanimated](https://img.shields.io/badge/Reanimated-000000?style=for-the-badge&logo=react&logoColor=white)
+![Gesture Handler](https://img.shields.io/badge/Gesture%20Handler-000000?style=for-the-badge&logo=react&logoColor=white)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-663399?style=for-the-badge)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
 
+### **AI / Backend**
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-25A1D7?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 ---
 
 ##  GitHub Statistics  
