@@ -1,5 +1,5 @@
 <!-- Header Image -->
-![Header Image](./headernew.jpg)
+![Header Image](./headernew.png)
 
 #  Hello, I’m Jarryd Carelse  
 
