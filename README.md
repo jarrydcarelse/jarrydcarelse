@@ -20,7 +20,8 @@ Below are the three major projects I’ve completed, each showing different area
 **Repo:** [UNO Event Management – Frontend](https://github.com/jarrydcarelse/UNO-Event-management---Frontend.git)
 
 <p align="center">
-  <img src="./Eventify.jpg" width="350px" alt="Eventify Mockup"/>
+  <img src="./Eventify.jpg" width="260px" alt="Eventify Mockup 1"/>
+  <img src="./Eventify1.jpg" width="260px" alt="Eventify Mockup 2"/>
 </p>
 
 A full event and staff management dashboard designed to function like a real company system.  
@@ -47,9 +48,9 @@ React, CRA, react-router-dom, Axios, CSS Modules, Jest
 **Repo:** [Trash the Habit](https://github.com/Jarryd-Carelse/DV300--Trash-the-habit.git)
 
 <p align="center">
-  <img src="./TrashHabit.png" width="350px" alt="Trash the Habit Mockup"/>
+  <img src="./TrashHabit.png" width="260px" alt="Trash Habit Mockup 1"/>
+  <img src="./TrashHabit1.png" width="260px" alt="Trash Habit Mockup 2"/>
 </p>
-
 A mobile app designed to help users break bad habits using gamification, drag-and-drop interactions, and visual progress tracking.
 
 **What the project taught me:**  
@@ -71,7 +72,8 @@ React Native (Expo), Firebase Auth & Firestore, Reanimated, Chart Kit, AsyncStor
 **Repo:** [SmartCoach](https://github.com/jarrydcarelse/smart-coach.git)
 
 <p align="center">
-  <img src="./SmartCoach.jpg" width="350px" alt="SmartCoach Mockup"/>
+  <img src="./SmartCoach.jpg" width="260px" alt="SmartCoach Mockup 1"/>
+  <img src="./SmartCoach1.jpg" width="260px" alt="SmartCoach Mockup 2"/>
 </p>
 
 An AI-powered mobile coach that creates personalised golf practice plans through a chat interface.  
