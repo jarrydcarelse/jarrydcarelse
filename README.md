@@ -4,87 +4,91 @@
 #  Hello, I’m Jarryd Carelse  
 
 ## About Me  
-I’m an Interactive Development student at Open Window in South Africa, currently building my skills in mobile development, frontend engineering, backend APIs, and UI/UX design. I enjoy creating digital products that feel clean, intuitive, and reliable — from dashboards to mobile apps and AI-powered tools.
+I’m an Interactive Development student at Open Window in South Africa, currently building my skills in mobile development, frontend engineering, backend APIs, and UI/UX design. I enjoy creating digital products that feel clean, intuitive, and reliable, from web dashboards to mobile apps and AI-powered tools.
 
-I approach every project as an opportunity to learn, grow, and solve real-world problems with practical, user-focused solutions.
+I approach every project as an opportunity to learn something new, improve my problem-solving, and build solutions that feel genuinely useful.
 
 ---
 
 ##  Featured Projects
 
-Below are the three major projects I’ve completed this year, each focusing on a different part of my development journey: web dashboards, mobile interaction design, and AI-assisted applications.
-
----
+Below are the three major projects I’ve completed, each showing different areas of my development journey—web dashboards, mobile interaction design, and AI-assisted applications.
 
 ---
 
 ### **1. UNO Event Management – Event, Task & Employee Platform**  
-![Eventify Preview](./Eventify.jpg)
-
 **Repo:** [UNO Event Management – Frontend](https://github.com/jarrydcarelse/UNO-Event-management---Frontend.git)
 
-A full event and staff management dashboard designed to simulate a real company system.  
-It includes authentication, task workflows, event data, and dynamic employee metrics.
+<p align="center">
+  <img src="./Eventify.jpg" width="350px" alt="Eventify Mockup"/>
+</p>
+
+A full event and staff management dashboard designed to function like a real company system.  
+It includes authentication, task tracking, event overviews, and dynamic metrics for employees and admins.
 
 **What the project taught me:**  
-How to connect a React frontend to a real .NET backend using proper REST API structure, JWT authentication, and PostgreSQL.
+How to connect a React frontend to a real .NET backend with proper REST API structure, JWT authentication, and PostgreSQL.
 
 **Highlights**
 - Login + secure admin-gated signup  
-- CRUD for events, tasks, and employees  
+- CRUD functionality for events, tasks, and employees  
 - Event-specific task assignment  
-- Real-time dashboard metrics  
-- Fully responsive UI  
+- Real-time progress and dashboard metrics  
+- Fully responsive dashboard UI  
 - Deployed using Netlify  
 
-**Tech Stack**
+**Tech Stack**  
 React, CRA, react-router-dom, Axios, CSS Modules, Jest  
-**Backend:** .NET 8, PostgreSQL, JWT Auth, Swagger UI docs
+**Backend:** .NET 8, PostgreSQL, JWT Auth, Swagger API docs
 
 ---
 
 ### **2. Trash the Habit – Gamified Habit-Breaking App**  
-![Trash the Habit Preview](./TrashHabit.png)
-
 **Repo:** [Trash the Habit](https://github.com/Jarryd-Carelse/DV300--Trash-the-habit.git)
 
-A mobile app designed to help users break habits through gamified drag-and-drop interactions and visual progress charts.
+<p align="center">
+  <img src="./TrashHabit.png" width="350px" alt="Trash the Habit Mockup"/>
+</p>
+
+A mobile app designed to help users break bad habits using gamification, drag-and-drop interactions, and visual progress tracking.
 
 **What the project taught me:**  
-How to build a smooth React Native app using gesture-based UI, animations, real-time Firestore sync, and offline support.
+How to build a modern React Native app with gesture-based UI, real-time database syncing, and offline functionality.
 
 **Highlights**
-- Firebase Auth login + signup  
-- Real-time habit syncing  
+- Email/password login via Firebase  
+- Real-time habit syncing using Firestore  
 - Drag-and-drop habit actions (Reanimated + Gesture Handler)  
-- Weekly analytics charts  
-- Offline storage with AsyncStorage  
+- Weekly charts for progress tracking  
+- Offline-friendly storage via AsyncStorage  
 
-**Tech Stack**
+**Tech Stack**  
 React Native (Expo), Firebase Auth & Firestore, Reanimated, Chart Kit, AsyncStorage
 
 ---
 
 ### **3. SmartCoach – AI Golf Practice Assistant**  
-![SmartCoach Preview](./SmartCoach.jpg)
-
 **Repo:** [SmartCoach](https://github.com/jarrydcarelse/smart-coach.git)
 
+<p align="center">
+  <img src="./SmartCoach.jpg" width="350px" alt="SmartCoach Mockup"/>
+</p>
+
 An AI-powered mobile coach that creates personalised golf practice plans through a chat interface.  
-The app uses Google Gemini to generate structured sessions based on the user’s handicap.
+The app uses Google Gemini to generate structured sessions based on the user’s handicap and goal.
 
 **What the project taught me:**  
-How to integrate a mobile frontend with a Python Flask backend, use AI models safely, and render structured AI-generated content.
+How to integrate a mobile frontend with a Python Flask backend, call AI models safely, and format structured AI responses in the UI.
 
 **Highlights**
-- Chat-based coaching  
-- Structured practice plans  
+- Chat-based coaching experience  
+- Structured practice plans (drills, cues, safety notes)  
 - Handicap-aware personalisation  
 - Save drills, sessions, and achievements  
-- Haptic + sound feedback for improved UX  
-- Full Expo/TypeScript workflow  
+- Sound + haptic feedback for smoother UX  
+- Full Expo/TypeScript mobile workflow  
 
-**Tech Stack**
+**Tech Stack**  
 Expo (React Native), TypeScript, Firebase, Flask, google-genai (Gemini), Axios
 
 ---
@@ -103,10 +107,10 @@ Expo (React Native), TypeScript, Firebase, Flask, google-genai (Gemini), Axios
 - Figma, Git, GitHub, VS Code  
 
 ### **Specialised Areas**
-- AI Integration (Gemini API)  
-- REST API design (.NET + Flask)  
-- Real-time syncing + offline-first architecture  
-- Mobile UI/UX systems (gestures, haptics, sound)  
+- AI integration with Gemini  
+- REST API development (Flask + .NET)  
+- Real-time sync + offline architecture  
+- UI/UX design for mobile interactions  
 
 ---
 
@@ -124,10 +128,10 @@ Expo (React Native), TypeScript, Firebase, Flask, google-genai (Gemini), Axios
 ---
 
 ##  What I’m Currently Working On  
-- Expanding SmartCoach with more advanced plan generation  
-- Improving animations and gesture UX in React Native  
-- Strengthening TypeScript workflows  
-- Exploring more AI-powered mobile features  
+- Expanding SmartCoach with better plan generation  
+- Improving animations and gestures in React Native  
+- Strengthening my TypeScript workflow  
+- Exploring more AI-driven features for mobile apps  
 
 ---
 
