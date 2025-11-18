@@ -95,7 +95,7 @@ Expo (React Native), TypeScript, Firebase, Flask, google-genai (Gemini), Axios
 
 ---
 
-## 🛠️ Technical Skills
+##Technical Skills
 
 ### **Languages & Frameworks**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
