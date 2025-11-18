@@ -4,7 +4,7 @@
 #  Hello, I’m Jarryd Carelse  
 
 ## About Me  
-I’m an Interactive Development student at Open Window in South Africa, currently building my skills in mobile development, frontend engineering, backend APIs, and UI/UX design. I enjoy creating digital products that feel clean, intuitive, and reliable — from web dashboards to mobile apps and AI-powered tools.
+I’m an Interactive Development student at Open Window in South Africa, currently building my skills in mobile development, frontend engineering, backend APIs, and UI/UX design. I enjoy creating digital products that feel clean, intuitive, and reliable, from web dashboards to mobile apps and AI-powered tools.
 
 I approach every project as an opportunity to learn something new, improve my problem-solving, and build solutions that feel genuinely useful.
 
@@ -12,11 +12,11 @@ I approach every project as an opportunity to learn something new, improve my pr
 
 ##  Featured Projects
 
-Below are the three major projects I’ve completed, each showing different areas of my development journey — web dashboards, mobile interaction design, and AI-assisted applications.
+Below are the three major projects I’ve completed, each showing different areas of my development journey, web dashboards, mobile interaction design, and AI-assisted applications.
 
 ---
 
-### **1. UNO Event Management – Event, Task & Employee Platform**  
+### **1. UNO Event Management,  Event, Task & Employee Platform**  
 **Repo:** [UNO Event Management – Frontend](https://github.com/jarrydcarelse/UNO-Event-management---Frontend.git)
 
 A full event and staff management dashboard designed to function like a real company system.  
@@ -59,7 +59,7 @@ React Native (Expo), Firebase Auth & Firestore, Reanimated, Chart Kit, AsyncStor
 
 ---
 
-### **3. SmartCoach – AI Golf Practice Assistant**  
+### **3. SmartCoach, AI Golf Practice Assistant**  
 **Repo:** [SmartCoach](https://github.com/jarrydcarelse/smart-coach.git)
 
 An AI-powered mobile coach that creates personalised golf practice plans through a chat interface.  
